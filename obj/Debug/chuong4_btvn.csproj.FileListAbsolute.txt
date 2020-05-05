@@ -1,0 +1,10 @@
+D:\trang\chuong4_btvn\bin\Debug\chuong4_btvn.exe.config
+D:\trang\chuong4_btvn\bin\Debug\chuong4_btvn.exe
+D:\trang\chuong4_btvn\bin\Debug\chuong4_btvn.pdb
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.csprojAssemblyReference.cache
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.frmtinhtong.resources
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.Properties.Resources.resources
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.csproj.GenerateResource.cache
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.csproj.CoreCompileInputs.cache
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.exe
+D:\trang\chuong4_btvn\obj\Debug\chuong4_btvn.pdb
